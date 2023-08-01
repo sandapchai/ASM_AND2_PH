@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Asignment_AND2_Remake</string>
+
+    <string name="forgot_password"> <u>forgot password?</u> </string>
+    <string name="signup"> Don\'n you have an account? <b>Sign up</b> </string>
+    <string name="titletoolbar"> <b>Quản lí sản phẩm</b> </string>
+
+    <string name="opennav">open nav</string>
+    <string name="closenav"> close nav</string>
+
+    <string name="update">  <b><u>Chỉnh sửa</u></b> </string>
+    <string name="delete"> <b><u>Xóa</u></b> </string>
+</resources>
